@@ -1,4 +1,10 @@
 function somar (a,b) {
   return a +b;
 }
-module.exports = somar;
+
+function subtrair (a,b) {
+  return a - b;
+}   
+
+module.exports = {somar, subtrair};
+
