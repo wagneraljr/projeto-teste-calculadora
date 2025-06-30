@@ -5,6 +5,6 @@ function somar (a,b) {
 function subtrair (a,b) {
   return a - b;
 }   
-
+// @wagneraljr
 module.exports = {somar, subtrair};
 
